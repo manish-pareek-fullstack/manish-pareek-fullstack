@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Pareek</h1>
 <h3 align="center">Full Stack Web Dev intern @ Regex Software | BA Student @ PDU Sikar</h3>
 
-<img align="right" alt="coding" width="350" src="https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif"/>
+<img align="right" alt="coding" width="300" src="https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishpareek-09&label=Profile%20views&color=0e75b6&style=flat" alt="manishpareek-09" /> </p>
 
