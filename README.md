@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="T3NBLWywZUVpYrqYrUbKqYFlXPgB9ReXavmxYhLuCVk" />
 <h1 align="center">Hi 👋, I'm Manish Pareek</h1>
 <h3 align="center">Full Stack Web Dev intern @ Regex Software | BA Student @ PDU Sikar</h3>
 
