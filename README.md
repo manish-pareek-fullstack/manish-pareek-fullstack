@@ -1,5 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=350&section=header&text=Manish%20Pareek%20%7C%20Full%20Stack%20Web Developer%20%7C%20MERN Stack%20%7C%20React Developer&fontSize=32&fontColor=ffffff&animation=fadeIn&gradient=linear-gradient(90deg, #ff7e5f, #feb47b, #86A8E7, #91EAE4)" />
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=350&section=header&text=Manish%20Pareek&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,50:38ef7d,100:11998e&height=100&section=header&text=React%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7971e,50:ffd200,100:f7971e&height=100&section=header&text=Full%20Stack%20Web%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:00c6ff&height=100&section=header&text=MERN%20Stack&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ## 💼 About Me
