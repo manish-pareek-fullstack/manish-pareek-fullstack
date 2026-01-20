@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=350&section=header&text=Manish%20Pareek%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=350&section=header&text=Manish%20Pareek%20%7C%20Full%20Stack%20Web Developer%20%7C%20MERN Stack%20%7C%20React Developer&fontSize=32&fontColor=ffffff&animation=fadeIn&gradient=linear-gradient(90deg, #ff7e5f, #feb47b, #86A8E7, #91EAE4)" />
 </p>
 
 ## 💼 About Me
