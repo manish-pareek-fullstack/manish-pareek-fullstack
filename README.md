@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF5733,33FF57,3357FF&size=32&center=true&vCenter=true&width=700&lines=Manish+Pareek;React+Developer;Full+Stack+Web+Developer;MERN+Stack&font=Fira%20Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&color=FF5733&center=true&vCenter=true&width=700&lines=Manish+Pareek" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=33FF57&center=true&vCenter=true&width=700&lines=React+Developer" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=3357FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer" />
 </p>
+
 
 ## 💼 About Me
 
 * 💻 Full Stack Developer (MERN Stack)  
 * 🚀 Full Stack Web Developer Intern at Regex Software Services  
 * 🎓 BA Student at Pandit Deendayal Upadhyay University, Sikar  
-* 🧠 Practicing DSA & Problem Solving (C, C++, Java, Python)  
+* 🧠 Practicing DSA & Problem Solving (C++)  
 
 ## 🛠️ Tech Stack
 
