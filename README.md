@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Manish%20Pareek%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=350&section=header&text=Manish%20Pareek%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ## 💼 About Me
 
 * 💻 Full Stack Developer (MERN Stack)
 * 🚀 Full Stack Web Developer Intern at Regex Software Services
-* 📚 Regularly practicing DSA & problem solving
+* 📚 Studying BA at Pandit Deendayal Upadhyay University, Sikar
+* 🧠 Practicing DSA & problem solving
 * 🧠 Strong basics in OOPs & core CS concepts
 
 ## 🛠️ Tech Stack
