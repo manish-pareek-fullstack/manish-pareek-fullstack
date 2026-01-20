@@ -31,4 +31,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-pareek-fullstack&show_icons=true&locale=en&layout=compact" alt="manish-pareek-fullstack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish-pareek-fullstack&" alt="manish-pareek-fullstack" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manish-pareek-fullstack&theme=github-dark)
+
